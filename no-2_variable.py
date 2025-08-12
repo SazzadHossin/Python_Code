@@ -12,9 +12,9 @@ id = 2230035
 print(id)
 
 #no4
-fatherName = "Md.Zamerul Islam"
-print(fatherName)
+HomeDistrict = "Bogura"
+print(HomeDistrict)
 
 #no5
-mother_name = "Mst.Sheuli Begum"
-print(mother_name)
+Education = "Independent University,Bangaldesh"
+print(Education)
