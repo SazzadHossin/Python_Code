@@ -1,3 +1,5 @@
+#Varaible is a container who conatains different types of value or elements.
+
 #no1
 a = 10
 print(a)
