@@ -33,3 +33,4 @@ if 5<2:
 else:
     print("Else part")
 print('Rest of the code')
+print()
