@@ -146,7 +146,7 @@ while i<n:
 print()
 
 
-#no-9
+#no-10
 #With indexing
 from array import*
 num = array('i',[10,11,12,13,14,15])
