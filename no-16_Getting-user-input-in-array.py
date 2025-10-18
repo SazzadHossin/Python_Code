@@ -14,6 +14,7 @@ for i in range(p):'''
 for i in range(len(stu_id)):
     print(stu_id[i])
 
+print()
 
 #Getting Array input from user using while loop
 from array import*
