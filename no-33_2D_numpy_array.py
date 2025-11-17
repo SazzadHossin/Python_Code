@@ -108,4 +108,24 @@ print(val[1][1])
 print(val[1][2])
 print(val[1][3])
 
+print()
+
 #Modifying 2D array elements
+#no-6
+
+import numpy as np
+val = np.array([[5,6,7,8],
+                [9,10,11,12]])
+
+val[0][1] = 25
+val[1][2] = 56
+print(val)
+print(val[0][0])
+print(val[0][1])
+print(val[0][2])
+print(val[0][3])
+print(val[1][0])
+print(val[1][1])
+print(val[1][2])
+print(val[1][3])
+
