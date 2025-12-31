@@ -17,9 +17,9 @@
     Two way to import array module:
     1. import array -->This will import the array module
        syntax:
-            array_name = array.array('type code',[elements])
+        array_name = array.array('type code',[elements])
     2. from array import* -->This will import all class,objects,variable etc from array module.
-                             Here * means All.
+    Here * means All.
         syntax:
             array_name = array('type code',[elements])
     
